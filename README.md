@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @akinsolasalami
-- 👀 I’m interested in Data Analyst/Scientist/Engineering roles
-- ⚙️ I’m currently working on several ETL projects and learning about unsupervised machine learning. 
-- 🧩 I’m looking to collaborate on data projects on health and agriculture
+- 👋 Hi, I’m Akinsola, you can call me Sola :)
+- 👀 I’m interested in Data Analyst/Scientist/Engineering roles.
+- ⚙️ I’m currently working on several ETL projects and playing around with some unsupervised machine learning models. 
+- 🧩 I’m looking to collaborate on data projects on health and agriculture.
 - 📫 How to reach me akinsola.salami@gmail.com
 
 <!---
