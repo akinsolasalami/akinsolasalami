@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Akinsola.
-- 👀 I’m interested in Data Analyst/Scientist/Engineering roles.
-- ⚙️ I’m currently working on several ETL projects and playing around with some unsupervised machine-learning models. 
-- 🧩 I’m looking to collaborate on data projects on health and agriculture and eCommerce.
-- 📫 How to reach me akinsola.salami@gmail.com
+- 📚 Currently working on a GCP certification
+- 👾 Interested in DE and DS roles
 
 <!---
 akinsolasalami/akinsolasalami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
